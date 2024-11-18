@@ -1,0 +1,59 @@
+// Cole Neves | Passion Prodject | 23 Sept 2024
+star[] stars = new star[150];
+star s1, s2;
+int x, y, score, tx, ty, tw, speed;
+PImage FloorSB;
+Player oti;
+
+void setup() {
+  size(800, 800);
+  s1 = new star();
+  s2 = new star();
+  oti = new Player(100,100);
+  for (int i = 0; i<stars.length; i+=1) {
+    stars[i] = new star();
+  }
+  x = width/2;
+  y = height/2;
+  FloorSB = loadImage("FloorSB.png");
+}
+
+void draw() {
+  background(0);
+  s1.display();
+  s1.move();
+  s2.display();
+  s2.move();
+  oti.display();
+  if (keyPressed) {
+    if (key == 'w' || key == 'W') {
+      oti.move('w');
+    } else if (key == 's'|| key == 'S') {
+      if (y < 420) {
+        y = y + 10;
+      }
+    } else if (key == 'a' || key == 'A') {
+      if (x > 0) {
+        x = x - 10;
+      }
+    } else if (key == 'd' || key == 'D') {
+      if (x < 500) {
+        x = x + 10;
+      }
+    }
+  }
+  for (int i = 0; i<stars.length; i+=1) {
+    stars[i].display();
+    stars[i].move();
+  }
+  println(dist(x, y, tx, ty));
+  floorB();
+}
+
+void floorB() {
+  rectMode(CENTER);
+  fill(125);
+  rect(width/2, 770, width, 0);
+  imageMode (CENTER);
+  image(FloorSB, width/2, 770, width, 70);
+}
