@@ -1,0 +1,25 @@
+//Cole Neves
+class Player {
+  //Member Variable
+  PImage sprite;
+  int health, x, y;
+
+
+  Player (int x, int y) {
+    health = 100;
+    this.x=x;
+    this.y=y;
+    sprite = loadImage("Oti.png");
+  }
+
+  void display () {
+    image(sprite, x, y);
+  }
+  void move(char dir) {
+    if (dir == 'a') {
+      x = x - 5;
+    }else  if (dir == 'd') {
+      x = x + 5;
+    }
+  }
+}
