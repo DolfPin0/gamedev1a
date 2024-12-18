@@ -1,9 +1,13 @@
-# Cole's Game Development Portfolio
+# Cole's Game Development Portfolio (DolfPin770@gmail.com or 9714218@graniteschools.com)
 First year at Skyline, I want to learn how to make 2D games, mostly metroidvanias.
 Inspired by Shovel Knight, Cuphead, and Hollow Knight.
 I like art, I want to make pixel art-style games because they look great.
 
 ## Term 1 Projects
+[ShapeGame 2 elecrobogaloo.zip](https://github.com/user-attachments/files/18184318/ShapeGame.2.elecrobogaloo.zip)
+![Screenshot 2024-12-18 at 7 59 26 AM](https://github.com/user-attachments/assets/afd42a9d-cee4-46ba-b8a0-940356025cf0)
+This is my first coding product Shape Game
+I think the best thing is the art
 
 ## Term 2 Projects
 ![oti final](https://github.com/user-attachments/assets/ca43341f-4e33-4c73-b427-68d4b6de143b)
@@ -19,3 +23,5 @@ These are some of my main contributions to Blizzard
 
 This is the Blizzard project
 [GameDev-main.zip](https://github.com/user-attachments/files/18184254/GameDev-main.zip)
+![Screenshot 2024-12-18 at 8 00 55 AM](https://github.com/user-attachments/assets/400f98af-ce94-47f3-a36c-c41f10111553)
+I was mostly on drawing tiles and the start screen
