@@ -7,7 +7,7 @@ I like art, I want to make pixel art-style games because they look great.
 
 ## Term 2 Projects
 ![oti final](https://github.com/user-attachments/assets/ca43341f-4e33-4c73-b427-68d4b6de143b)
-![ShipShopColeN](https://github.com/user-attachments/assets/b525d7d4-97c3-415a-81d0-d5d9620a58bc)
+![ShipShopColeN](https://github.com/user-attachments/assets/c6ab15be-e418-4c0c-9e7a-ef2f90a2206a)
 ![oti spell](https://github.com/user-attachments/assets/63f2b78d-818a-45ed-b97c-f7509b6750d5)
 These are some things for a personal project
 
