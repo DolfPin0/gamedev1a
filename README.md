@@ -21,7 +21,11 @@ These are some things for a personal project
 ![dirtTileColeNeves(Rs)](https://github.com/user-attachments/assets/12c14679-e778-456e-b6f7-358e80599ca2)
 These are some of my main contributions to Blizzard
 
+https://github.com/Emil-Gruenwald/GameDev
+This is the group repository
+
 This is the Blizzard project
+Its a game about trying to survive against a monster that is the your living fear and the harsh weather
 [GameDev-main.zip](https://github.com/user-attachments/files/18184254/GameDev-main.zip)
 ![Screenshot 2024-12-18 at 8 00 55 AM](https://github.com/user-attachments/assets/400f98af-ce94-47f3-a36c-c41f10111553)
 I was mostly on drawing tiles and the start screen
