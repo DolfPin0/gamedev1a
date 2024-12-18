@@ -1,4 +1,5 @@
-# Cole's Game Development Portfolio (DolfPin770@gmail.com or 9714218@graniteschools.com)
+# Cole's Game Development Portfolio 
+# (DolfPin770@gmail.com personal or 9714218@graniteschools.com school)
 First year at Skyline, I want to learn how to make 2D games, mostly metroidvanias.
 Inspired by Shovel Knight, Cuphead, and Hollow Knight.
 I like art, I want to make pixel art-style games because they look great.
