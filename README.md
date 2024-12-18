@@ -11,7 +11,7 @@ This is my first coding product Shape Game
 I think the best thing is the art
 
 ## Term 2 Projects
-![oti final](https://github.com/user-attachments/assets/ca43341f-4e33-4c73-b427-68d4b6de143b)
+![oti final](https://github.com/user-attachments/assets/7436de9a-7146-42c8-81e4-0937fca556ba)
 ![ShipShopColeN](https://github.com/user-attachments/assets/c6ab15be-e418-4c0c-9e7a-ef2f90a2206a)
 ![oti spell](https://github.com/user-attachments/assets/63f2b78d-818a-45ed-b97c-f7509b6750d5)
 These are some things for a personal project
